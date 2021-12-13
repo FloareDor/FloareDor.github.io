@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Floare Dor</title>
+    <link>https://floaredor.github.io/posts/</link>
+    <description>Recent content in Posts on Floare Dor</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 19 Aug 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://floaredor.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>E2E Encrypted Chat Room</title>
+      <link>https://floaredor.github.io/2021/e2e-encrypted-chat-room/</link>
+      <pubDate>Thu, 19 Aug 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://floaredor.github.io/2021/e2e-encrypted-chat-room/</guid>
+      <description>Quite Intriguing. 22nd July 2021 – If I remember correctly, I was frenetically reading random XMPP blogs on the internet for it was the livestream day, the day after. Panic, kind of. Right since the brainstorming session in the Enigma discord server, the question, “How does WhatsApp work?” intrigued me. Specifically, I so wanted to create my own version of a basic chat system and explore the intricacies of socket programming.</description>
+    </item>
+    
+    <item>
+      <title>Init00 - something for myself</title>
+      <link>https://floaredor.github.io/2021/init00/</link>
+      <pubDate>Mon, 12 Jul 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://floaredor.github.io/2021/init00/</guid>
+      <description>I’ve never felt so good. Being here, in the moment.Living. The little droplets from the skies, coming all the way down to moisten the pots in my balcony. Can’t stress how much I’m enjoying the sound they make when they collide.Random yet peaceful, the waves. The scent of the simply fresh air, paired with the mist of the evening.I’m in love, I think. Beautiful and calm to exist with.Soothing my arms, the flow of the cool breeze as I’m putting my thoughts down on a paper.</description>
+    </item>
+    
+  </channel>
+</rss>
